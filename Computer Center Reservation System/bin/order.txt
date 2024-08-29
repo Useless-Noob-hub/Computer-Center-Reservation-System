@@ -1,0 +1,5 @@
+weekday:1	interval:1	room:1	studentId:1	studentName:张三	status:2
+weekday:1	interval:2	room:2	studentId:1	studentName:张三	status:-1
+weekday:2	interval:2	room:3	studentId:1	studentName:张三	status:-1
+weekday:2	interval:2	room:3	studentId:1	studentName:张三	status:-1
+weekday:2	interval:2	room:3	studentId:1	studentName:张三	status:0
